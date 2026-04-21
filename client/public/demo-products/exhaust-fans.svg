@@ -1,0 +1,8 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' width='900' height='700' viewBox='0 0 900 700'>
+  <defs><linearGradient id='bg' x1='0' x2='1' y1='0' y2='1'><stop stop-color='#f0fdfa'/><stop offset='1' stop-color='#ffffff'/></linearGradient><filter id='shadow' x='-20%' y='-20%' width='140%' height='140%'><feDropShadow dx='0' dy='18' stdDeviation='18' flood-color='#0f172a' flood-opacity='.16'/></filter></defs>
+  <rect width='900' height='700' fill='url(#bg)'/>
+  <rect x='70' y='58' width='760' height='484' rx='42' fill='white' opacity='.84' filter='url(#shadow)'/>
+  <g filter='url(#shadow)'><rect x='208' y='126' width='340' height='340' rx='42' fill='white' stroke='#0f766e' stroke-width='16'/><circle cx='378' cy='296' r='118' fill='none' stroke='#0f766e' stroke-width='16'/><path d='M378 296 L438 190 C500 250 478 334 378 296Z M378 296 L260 292 C292 210 374 198 378 296Z M378 296 L432 406 C342 432 286 370 378 296Z' fill='#94a3b8' opacity='.7'/><path d='M618 198 H758 M618 296 H790 M618 392 H730' stroke='#0f766e' stroke-width='18' stroke-linecap='round'/></g>
+  <text x='86' y='604' font-family='Arial, sans-serif' font-size='38' font-weight='800' fill='#0f172a'>Exhaust Fan</text>
+  <text x='86' y='648' font-family='Arial, sans-serif' font-size='24' font-weight='700' fill='#0f766e'>Ventilation unit</text>
+</svg>
